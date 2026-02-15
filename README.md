@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanjay Swami</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | AI Enthusiast
-t</h3>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | AI Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎯 Aspiring Data Analyst focused on real-world problem solving
+- 🎯 Aspiring Data Analyst passionate about solving real-world business problems using data
 - 🐍 Skilled in Python (Pandas, NumPy, Matplotlib)
 - 🗄️ Strong in SQL (Joins, Group By, Aggregations, Views)
 - 📊 Power BI Dashboard Developer
@@ -14,8 +13,22 @@ t</h3>
 
 ---
 
-## 🛠️ Tech Stack
-Python | MySQL | Power BI | Pandas | NumPy | Matplotlib | Git | GitHub
+## 🛠 Tech Stack
+**Languages & Tools:**  
+Python | MySQL | SQL | Power BI  
+
+**Libraries:**  
+Pandas | NumPy | Matplotlib  
+
+**Version Control:**  
+Git | GitHub
+
+## 📈 GitHub Stats
+
+![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay-swami&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-swami&layout=compact&theme=tokyonight)
+
 
 ---
 
