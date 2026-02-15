@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjay Swami</h1>
-<h3 align="center">Aspiring Data Analyst | Python Developer | AI Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | AI Enthusiast
+t</h3>
 
 ---
 
@@ -19,10 +20,10 @@ Python | MySQL | Power BI | Pandas | NumPy | Matplotlib | Git | GitHub
 ---
 
 ## 📂 Featured Projects
-- 🤖 Talking Chatbot using Python  
-- 📊 Website Performance Analysis  
-- ✈️ Airline Reservation Analysis (SQL + Power BI)  
-- 🛒 Flipkart Market Intelligence Analysis  
+- 🤖 Talking Chatbot using Python – Voice-based chatbot with basic NLP logic  
+- 📊 Website Performance Analysis – Data cleaning & visualization using Pandas and Matplotlib  
+- ✈️ Airline Reservation Analysis (SQL + Power BI) – Revenue & booking trend analysis  
+- 🛒 Flipkart Market Intelligence Analysis – Product pricing and competitor insights  
 
 ---
 
