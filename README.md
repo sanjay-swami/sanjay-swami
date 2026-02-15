@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanjay Swami</h1>
+<h3 align="center">Aspiring Data Analyst | Python Developer | AI Enthusiast</h3>
 
-<!--
-**sanjay-swami/sanjay-swami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎯 Aspiring Data Analyst focused on real-world problem solving
+- 🐍 Skilled in Python (Pandas, NumPy, Matplotlib)
+- 🗄️ Strong in SQL (Joins, Group By, Aggregations, Views)
+- 📊 Power BI Dashboard Developer
+- 🤖 Exploring AI & Machine Learning
+- 💡 Passionate about transforming data into insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+Python | MySQL | Power BI | Pandas | NumPy | Matplotlib | Git | GitHub
+
+---
+
+## 📂 Featured Projects
+- 🤖 Talking Chatbot using Python  
+- 📊 Website Performance Analysis  
+- ✈️ Airline Reservation Analysis (SQL + Power BI)  
+- 🛒 Flipkart Market Intelligence Analysis  
+
+---
+
+## 📫 Connect With Me
+- 🔗 LinkedIn: [Sanjay Swami](https://www.linkedin.com/in/sanjay-swami-181934395)
+- 📧 Email: sanjayswami74374@gmail.com
+
+---
+
+⭐ Always learning. Always building.
